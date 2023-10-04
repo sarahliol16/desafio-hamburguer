@@ -104,7 +104,7 @@ ul{
 }
 
 .fundo_main{
-    background-image: url(imagens/fundo_header.png);
+    background-image: url(https://raw.githubusercontent.com/sarahliol16/desafio-hamburguer/main/fundo_header.png);
     background-size: cover;
     background-position: right center;
     background-repeat: no-repeat;
